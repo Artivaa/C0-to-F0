@@ -1,1 +1,2 @@
-# First_project
+# Перевод из Цельсия в Фаренгейт
+Используются 4 типа переменных Auto, Register, Static, Extern
